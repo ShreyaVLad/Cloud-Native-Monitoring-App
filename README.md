@@ -16,20 +16,7 @@ The app is containerized with **Docker**, pushed to **AWS ECR**, and deployed on
 - Docker and kubectl installed
 - Code editor (VS Code)
 
-## Quick Start
 
-
-### 1. Clone the repository
-```bash
-git clone <repository_url>
-cd <repository_folder>
-
-### 2. Install dependencies
-```bash
-cd pip3 install flask psutil plotly boto3 kubernetes
-
-### 3. Run locally
-cd python3 app.py
 
 
 
